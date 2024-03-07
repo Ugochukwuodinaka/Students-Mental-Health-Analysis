@@ -65,8 +65,7 @@ Detailed information about the fields in this dataset is provided below for a be
 1. Power Query Editor
     - Was used to:
         1. Extract,
-        2. Clean,
-        3. Transform,
+        2. Transform,
         4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
@@ -79,5 +78,17 @@ Detailed information about the fields in this dataset is provided below for a be
 
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. Was able to find online and fill in most of the missing __UN Code__ with the help of the __Country__ and __Port Name__ details provided.
+- There was no serious data cleaning or transformastion carried out here. The dataset came cleaned, i just made sure that the data types of the fields are of the right types and that fields all reported 100% valid for the column quality.
 
+
+**Power Query View**
+
+Power Query Screenshot                                                             |                                
+:---------------------------------------------------------------------------------:|
+![](images/Power_Query_Screenshort.png)
+
+You can access the complete Power BI project document [here](SHIPPING%20PORTS%20AROUND%20THE%20WORLD%20ANALYSIS.pbix).
+
+
+## Data Modelling
+No data modelling was required since we needed just a table for the analysis.
