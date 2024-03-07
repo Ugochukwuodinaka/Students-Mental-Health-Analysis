@@ -87,8 +87,21 @@ Power Query Screenshot                                                          
 :---------------------------------------------------------------------------------:|
 ![](images/Power_Query_Screenshort.png)
 
-You can access the complete Power BI project document [here](SHIPPING%20PORTS%20AROUND%20THE%20WORLD%20ANALYSIS.pbix).
+You can access the complete Power BI project document [here](STUDENTS%20MENTAL%20HEALTH%20ANALYSIS.pbix).
 
 
 ## Data Modelling
 No data modelling was required since we needed just a table for the analysis.
+
+
+
+## Visualization in Power BI:
+#### Report View 1
+![](images/Shipping_Ports_Around_The_World_Analysis_Dashboard1.jpg)
+
+#### Report View 2
+![](images/Shipping_Ports_Around_The_World_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- Number of Port Types is __4.__
