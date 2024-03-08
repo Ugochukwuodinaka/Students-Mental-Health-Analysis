@@ -173,5 +173,5 @@ Educational institutions should develop tailored support programs and interventi
 
 
 
-- <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Course_of_Study.jpg" width="500">
+- <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Course_of_Study.jpg" width="550">
 - **Depression, Anxiety and Panic Attack Trend By Students Course of Study:**
