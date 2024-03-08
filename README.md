@@ -134,7 +134,7 @@ From the analysis, i made the following Key findings below:
 - __Implications for Mental Health Support:__ The data underscores the importance of gender-sensitive mental health support services within educational institutions, particularly in addressing panic attacks among female students. Targeted interventions, such as cognitive-behavioral therapy (CBT) and stress management techniques, tailored to the unique needs of female students, may be beneficial in managing panic attacks.
 
 
-- <img src="images/Students_With%20_Panic_Attack.jpg" width="300">
+- <img src="images/Students_Visited_A_Specialist.jpg" width="300">
 - **Number of Students That Visited A Specialist:**
 - This data offers insights into the number of students who visited a specialist for mental health treatment, segmented by gender. Below is an analysis of the findings along with key insights derived from the data:
 - __Gender Distribution:__ The data indicates that out of the total number of students who visited a specialist for mental health treatment, 5 are female, while only 1 is male. Female students constitute the majority of individuals seeking specialist treatment, suggesting a gender disparity in help-seeking behavior for mental health concerns.
