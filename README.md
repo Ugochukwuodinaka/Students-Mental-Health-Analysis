@@ -153,5 +153,5 @@ Marital status may impact depression prevalence due to differences in life circu
 Educational institutions should develop tailored support programs and interventions that address the unique needs of students based on their marital status. Providing resources for stress management, relationship counseling, and mental health education can help mitigate the impact of marital status on mental health outcomes among students.
 
 
-- <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Age.jpg" width="400">
+- <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Age.jpg" width="500">
 - **Depression, Anxiety and Panic Attack Trend By Students Age:**
