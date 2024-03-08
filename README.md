@@ -175,3 +175,27 @@ Educational institutions should develop tailored support programs and interventi
 
 - <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Course_of_Study.jpg" width="550">
 - **Depression, Anxiety and Panic Attack Trend By Students Course of Study:**
+- This data analysis is on the prevalence of mental health conditions (anxiety, depression, panic attacks) among students, categorized by their course of study. Below is an analysis of the findings along with key insights derived from the data:
+- __Anxiety:__ Engineering, BCS (Bachelor of Computer Science), and BIT (Bachelor of Information Technology) students have the highest prevalence of anxiety, with 7, 5, and 5 students reporting anxiety, respectively. Courses that are typically perceived as demanding or rigorous, such as engineering and computer science, may contribute to heightened anxiety levels among students due to academic pressure and workload. It's important for educational institutions to provide support services tailored to the specific needs of students in high-stress programs, including stress management workshops and counseling services.
+- __Depression:__ BIT (Bachelor of Information Technology) students report the highest prevalence of depression, with 8 students indicating depression, followed by Engineering and BCS (Bachelor of Computer Science) with 4 and 6 students, respectively. Similar to anxiety, students in courses with heavy academic demands may experience elevated levels of depression. Factors such as competition, high expectations, and workload can contribute to feelings of inadequacy and hopelessness. Educational 
+- __Panic Attacks:__ Engineering and BCS students report the highest prevalence of panic attacks, with 5 students each indicating experiencing panic attacks. Like anxiety and depression, panic attacks may be triggered by academic stressors and pressure to perform. The demanding nature of engineering and computer science programs may exacerbate symptoms of panic attacks among students. Proactive measures such as stress management techniques and relaxation strategies can be beneficial for students in managing panic attacks and building resilience.
+- __Implications for Mental Health Support:__ The data underscores the importance of targeted mental health support services tailored to the specific needs of students across different courses of study. Educational institutions should prioritize the development of course-specific mental health initiatives, including stress-reduction programs, academic support services, and peer mentorship opportunities. Encouraging open dialogue about mental health within academic departments and providing accessible resources can help mitigate the negative impact of academic stressors on students' mental well-being.
+
+
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYTczYzBhNTktNGVlZi00ODk3LTllMmEtODk1YzAzNzMzYTdmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+
+
+
+## Recommendations For Improving The Mental Health Conditions of Students:
+- __Increase Awareness and Reduce Stigma:__ Educational Institutions should implement campus-wide mental health awareness campaigns. They should also provide education and training sessions on recognizing signs of mental distress.
+- __Enhance Access to Mental Health Services:__ Educational Institutions should increase availability and accessibility of mental health resources on campus. They should ensure affordability and confidentiality of services.
+- __Integrate Mental Health into Academic Curriculum:__ Educational Institutions incorporate mental health education into academic curriculum. They can offer workshops on mindfulness and stress reduction.
+- __Establish Peer Support Programs:__ Educational Institutions need to develop peer support programs for emotional support. They can also foster a sense of community through peer-led initiatives.
+- __Promote Work-Life Balance:__ They should provide resources for time management and prioritization. Flexible scheduling options can also be advocated for.
+- __Strengthen Social Support Networks:__ They should facilitate the formation of social support networks, and then foster connections between students and faculty members.
+- __Implement Stress Reduction Initiatives:__ Educational Institutions need to offer stress reduction initiatives such as meditation sessions and relaxation workshops. They should also create designated quiet spaces for relaxation.
+
+
+
+## Thank You For Following Through!
