@@ -1,4 +1,4 @@
-![image](https://github.com/Ugochukwuodinaka/Students-Mental-Health-Analysis/assets/157266999/d285f349-d142-4a1b-9da4-28d7c7c59768)# Students Mental Health Analysis
+# Students Mental Health Analysis
 ![](images/Student_Mental_Health_Image.jpg)
 
 
