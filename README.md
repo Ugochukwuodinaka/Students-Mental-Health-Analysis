@@ -110,7 +110,7 @@ From the analysis, i made the following Key findings below:
 - Number of Students that Seeked Specialist Attention is __6.__
 
 
-- <img src="images/Students_With%20_Depression.jpg" width="300">
+- <img src="images/Students_With%20_Depression.jpg" width="250">
 - **Number of Students With Depression By Gender:**
 - In this analysis, our first insight is on the number of students with depression by gender, below are insights i derived from the data:
 - __Gender Distribution:__ The data shows that out of the total number of students with depression, 29 (82.86%) are female, while 6 (17.14%) are male. There is a notable disparity in the number of female students reporting depression compared to male students.
@@ -118,7 +118,7 @@ From the analysis, i made the following Key findings below:
 - __Implications for Mental Health Support:__ The higher prevalence of depression among female students underscores the importance of gender-sensitive mental health support services within educational institutions. Educational institutions should consider implementing targeted interventions and support programs tailored to the specific needs and challenges faced by female students. Awareness campaigns and outreach efforts focused on reducing stigma surrounding mental health issues, particularly among female students, may be beneficial.
 
 
-- <img src="images/Students_With%20_Anxiety.jpg" width="300">
+- <img src="images/Students_With%20_Anxiety.jpg" width="250">
 - **Number of Students With Anxiety By Gender:**
 - This data offers insights into the prevalence of anxiety among students, segmented by gender. Here's an analysis of the data and key takeaways:
 - __Gender Distribution:__ The data reveals that out of the total number of students experiencing anxiety, 24 (70.59%) are female, while 10 (29.41%) are male. The majority of students reporting anxiety are female, indicating a gender disparity in anxiety prevalence.
@@ -126,7 +126,7 @@ From the analysis, i made the following Key findings below:
 - __Implications for Mental Health Support:__ The data underscores the importance of implementing gender-sensitive mental health support services within educational institutions, with a specific focus on addressing anxiety among female students. Targeted interventions, counseling services, and awareness campaigns tailored to the unique needs of female students may be crucial in mitigating anxiety-related challenges.
 
 
-- <img src="images/Students_With%20_Panic_Attack.jpg" width="300">
+- <img src="images/Students_With%20_Panic_Attack.jpg" width="250">
 - **Number of Students With Panic Attack By Gender:**
 - The prevalence of panic attacks among students, categorized by gender. Below is an analysis of the findings along with key insights derived from the data:
 - __Gender Distribution:__ The data reveals that out of the total number of students experiencing panic attacks, 25 (75.76%) are female, while 8 (24.24%) are male. Female students constitute a majority of individuals reporting panic attacks, indicating a gender disparity in the prevalence of this mental health issue.
@@ -134,7 +134,7 @@ From the analysis, i made the following Key findings below:
 - __Implications for Mental Health Support:__ The data underscores the importance of gender-sensitive mental health support services within educational institutions, particularly in addressing panic attacks among female students. Targeted interventions, such as cognitive-behavioral therapy (CBT) and stress management techniques, tailored to the unique needs of female students, may be beneficial in managing panic attacks.
 
 
-- <img src="images/Students_Visited_A_Specialist.jpg" width="300">
+- <img src="images/Students_Visited_A_Specialist.jpg" width="250">
 - **Number of Students That Visited A Specialist:**
 - This data offers insights into the number of students who visited a specialist for mental health treatment, segmented by gender. Below is an analysis of the findings along with key insights derived from the data:
 - __Gender Distribution:__ The data indicates that out of the total number of students who visited a specialist for mental health treatment, 5 are female, while only 1 is male. Female students constitute the majority of individuals seeking specialist treatment, suggesting a gender disparity in help-seeking behavior for mental health concerns.
@@ -142,7 +142,7 @@ From the analysis, i made the following Key findings below:
 - __Implications for Mental Health Support:__ The data underscores the importance of addressing barriers to help-seeking behavior, particularly among male students, who may be less likely to seek professional treatment for mental health concerns. Educational institutions should prioritize initiatives aimed at reducing stigma, raising awareness about available mental health services, and promoting a supportive environment where students feel comfortable seeking help.
 
 
-- <img src="images/Mental_Health_By_Marital_Status.jpg" width="350">
+- <img src="images/Mental_Health_By_Marital_Status.jpg" width="300">
 - **Students With Mental Health Condition By Students Marital Status:**
 - This analysis is on the prevalence of mental health conditions (anxiety, depression, panic attacks) among students, categorized by marital status. Below is an analysis of the findings along with key insights derived from the data:
 - __Anxiety:__ Among students who are not married, 27 individuals (the highest count) report experiencing anxiety, while among married students, 7 individuals report anxiety. The higher number of students experiencing anxiety among those who are not married suggests that marital status may influence anxiety prevalence. This finding could be attributed to various factors such as relationship status, social support networks, and stressors associated with romantic relationships.
