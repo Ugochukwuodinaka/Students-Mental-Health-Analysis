@@ -2,6 +2,18 @@
 ![](images/Student_Mental_Health_Image.jpg)
 
 
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations For Improving The Mental Health Conditions of Students:](#recommendations-for-improving-the-mental-health-conditions-of-students:)
+
+
+
 ## Project Overview
 
 ### Introduction:
