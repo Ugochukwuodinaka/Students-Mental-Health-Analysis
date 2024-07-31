@@ -140,10 +140,10 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Students_With%20_Anxiety.jpg" width="250">
 
 - **Number of Students With Anxiety By Gender:**
-- This data offers insights into the prevalence of anxiety among students, segmented by gender. Here's an analysis of the data and key takeaways:
-- __Gender Distribution:__ The data reveals that out of the total number of students experiencing anxiety, 24 (70.59%) are female, while 10 (29.41%) are male. The majority of students reporting anxiety are female, indicating a gender disparity in anxiety prevalence.
-- __Gender Disparities in Anxiety:__ The higher percentage of female students experiencing anxiety aligns with existing research highlighting that females tend to be more susceptible to anxiety disorders compared to males. Societal expectations, hormonal factors, and coping mechanisms may contribute to this gender disparity in anxiety prevalence among students.
-- __Implications for Mental Health Support:__ The data underscores the importance of implementing gender-sensitive mental health support services within educational institutions, with a specific focus on addressing anxiety among female students. Targeted interventions, counseling services, and awareness campaigns tailored to the unique needs of female students may be crucial in mitigating anxiety-related challenges.
+- The data contains information about the trend of anxiety prevalence among students by gender. Here is an overview and main conclusions of the data:
+- __Gender Distribution:__ The data obtained indicates that out of the total number of students who are anxious, 24, which is 70.59%, are females, while the rest, 10, are males. These findings suggest that more students who report anxiety are females, foreshadowing a gender imbalance with respect to anxiety prevalence.
+- __Gender Inequality in Anxiety Disorder Statistics:__ The more significant percentage of females with anxiety is commensurate with prior research touting that females are generally more prone to anxiety disorders as compared to their male counterparts. This may be a function of differences in societal expectations, hormonal influences, and coping strategies.
+- __Implications for Mental Health Support:__ The findings also dictate that there is a pressing need for putting in place gender-sensitive mental health support services within the educational setting, with a special focus on anxiety among female students. Targeted interventions, counselling services, and awareness campaigns play a very critical role in the mitigation of challenges linked to anxiety, by being more responsive to the specific needs of female students.
 <br />
 <br />
 
