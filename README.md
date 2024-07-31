@@ -71,7 +71,7 @@ Detailed information about the fields in this dataset is provided below for a be
 2. Data Modelling
 3. Data Visualiziation
 4. Descriptive Analytics
-5. Critical Thinking and Problem Solving
+5. Analytical Thinking and Problem Solving
 6. Communication and Reporting
 <br />
 
@@ -92,7 +92,7 @@ Detailed information about the fields in this dataset is provided below for a be
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-- There was no serious data cleaning or transformastion carried out here. The dataset came cleaned, i just made sure that the data types of the fields are of the right types and that fields all reported 100% valid for the column quality.
+- The dataset was sourced clean, though a little transformation was done, i also made sure that the data types of the fields were of the right types and that the fields all reported 100% valid for column quality in Power Query Editor.
 
 
 **Power Query View**
@@ -106,7 +106,7 @@ You can access the complete Power BI project document [here](STUDENTS%20MENTAL%2
 <br />
 
 ## Data Modelling
-No data modelling was required since we needed just a table for the analysis.
+No data modelling was required as we had just one table for the analysis.
 <br />
 <br />
 
@@ -118,22 +118,22 @@ No data modelling was required since we needed just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Number of Students is __101.__
-- The Average Age of Students is __21.__
-- Number of Students With Depression is __35.__
-- Number of Students With Anxiety is __34.__
-- Number of Students With Panic Attack is __33.__
-- Number of Students that Seeked Specialist Attention is __6.__
+- The Number of Students: __101.__
+- The Average Age of Students: __21.__
+- Number of Students With Depression: __35.__
+- Number of Students With Anxiety: __34.__
+- Number of Students With Panic Attack: __33.__
+- Number of Students that Seeked Specialist Attention: __6.__
 <br />
 <br />
 
 - <img src="images/Students_With%20_Depression.jpg" width="250">
 
 - **Number of Students With Depression By Gender:**
-- In this analysis, our first insight is on the number of students with depression by gender, below are insights i derived from the data:
-- __Gender Distribution:__ The data shows that out of the total number of students with depression, 29 (82.86%) are female, while 6 (17.14%) are male. There is a notable disparity in the number of female students reporting depression compared to male students.
-- __Gender Disparities in Depression:__ The significantly higher percentage of female students experiencing depression suggests a gender disparity in mental health outcomes. This finding aligns with existing research indicating that females are more likely to experience depression compared to males. Factors such as hormonal differences, societal expectations, and coping mechanisms may contribute to this disparity.
-- __Implications for Mental Health Support:__ The higher prevalence of depression among female students underscores the importance of gender-sensitive mental health support services within educational institutions. Educational institutions should consider implementing targeted interventions and support programs tailored to the specific needs and challenges faced by female students. Awareness campaigns and outreach efforts focused on reducing stigma surrounding mental health issues, particularly among female students, may be beneficial.
+- In this analysis, our first insight shall be on the number of students with depression by gender; below are insights I derived from the data: 
+- __Gender Distribution:__ From here, one can see that among all students with depression, 29 of them are females (82.86%), and 6 of them are males, accounting for 17.14%. There is quite a disparity between the number of female students reporting depression and that of male students. 
+- __Gender Differences in Depression:__ In this research, the percentage of female students with a greater rate of depression was 73.42%, hence indicating that when considering mental health outcomes, there may be some bias based on gender. The finding, therefore, supports other studies in which the likelihood of depression was reportedly greater among females compared to their male counterparts. Such a disparity could be attributed to hormonal factors, societal expectations, and coping styles. 
+- __Implications for Mental Health Support:__ The findings of the present study, with a greater prevalence of depression noted in the female student population, call for gender-sensitive mental health support services within educational institutions. Educational institutions need to constitute interventions or targeted support programs ideally suited to deal with the individual challenges faced by female students. Awareness campaigns and outreach efforts aimed at reducing stigma concerning mental health issues, especially in the case of female students, may prove useful.
 <br />
 <br />
 
