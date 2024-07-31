@@ -150,10 +150,10 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Students_With%20_Panic_Attack.jpg" width="250">
 
 - **Number of Students With Panic Attack By Gender:**
-- The prevalence of panic attacks among students, categorized by gender. Below is an analysis of the findings along with key insights derived from the data:
-- __Gender Distribution:__ The data reveals that out of the total number of students experiencing panic attacks, 25 (75.76%) are female, while 8 (24.24%) are male. Female students constitute a majority of individuals reporting panic attacks, indicating a gender disparity in the prevalence of this mental health issue.
-- __Gender Disparities in Panic Attacks:__ The higher percentage of female students experiencing panic attacks aligns with existing research indicating that females are more susceptible to anxiety-related disorders, including panic attacks, compared to males. Socio-cultural factors, biological differences, and coping mechanisms may contribute to this gender disparity in panic attack prevalence among students.
-- __Implications for Mental Health Support:__ The data underscores the importance of gender-sensitive mental health support services within educational institutions, particularly in addressing panic attacks among female students. Targeted interventions, such as cognitive-behavioral therapy (CBT) and stress management techniques, tailored to the unique needs of female students, may be beneficial in managing panic attacks.
+- Prevalence of panic attacks among students by gender. The following analysis describes the results with key takeaways:
+- __Gender-wise distribution:__ The data indicate that out of those students who have ever had panic attacks, 25 represent the female gender, accounting for 75.76%, and 8 represent the male gender, accounting for 24.24%. Female students are the majority reporters of panic attacks; thus, in general, there is a gender imbalance in the manifestation of this mental illness.
+- __Gender Differences in Panic Attacks:__ The fact that the percentage of female students suffering from panic attacks is higher corresponds to other research that has already proved females to be more prone to anxiety disorders, such as panic attacks, than their male counterparts. This might be due to socio-cultural factors and biological differences and varied coping mechanisms.
+‐ __Implications for Mental Health Support:__ The data underlines how very important the planning of sensitive gender mental health support within educational institutions is in tackling panic attacks amongst the female student population. Tailored interventions, such as CBT and other stress management interventions, may help manage panic attacks, tailored most uniquely to the needs of female students.
 <br />
 <br />
 
