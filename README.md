@@ -133,7 +133,7 @@ From the analysis, i made the following Key findings below:
  In this analysis, our first insight shall be on the number of students with depression by gender; below are insights I derived from the data: 
 - __Gender Distribution:__ From here, one can see that among all students with depression, 29 of them are females (82.86%), and 6 of them are males, accounting for 17.14%. There is quite a disparity between the number of female students reporting depression and that of male students. 
 - __Gender Differences in Depression:__ In this research, the percentage of female students with a greater rate of depression was 73.42%, hence indicating that when considering mental health outcomes, there may be some bias based on gender. The finding, therefore, supports other studies in which the likelihood of depression was reportedly greater among females compared to their male counterparts. Such a disparity could be attributed to hormonal factors, societal expectations, and coping styles. 
-- __Implications for Mental Health Support:__ The findings of the present study, with a greater prevalence of depression noted in the female student population, call for gender-sensitive mental health support services within educational institutions. Educational institutions need to constitute interventions or targeted support programs ideally suited to deal with the individual challenges faced by female students. Awareness campaigns and outreach efforts aimed at reducing stigma concerning mental health issues, especially in the case of female students, may prove useful.
+- __Implications for Mental Health Support:__ The findings of the present study, with a greater prevalence of depression noted in the female student population, call for gender-sensitive mental health support services within educational institutions. 
 <br />
 <br />
 
@@ -141,7 +141,7 @@ From the analysis, i made the following Key findings below:
 
 - **Number of Students With Anxiety By Gender:**
 - The data contains information about the trend of anxiety prevalence among students by gender. Here is an overview and main conclusions of the data:
-- __Gender Distribution:__ The data obtained indicates that out of the total number of students who are anxious, 24, which is 70.59%, are females, while the rest, 10, are males. These findings suggest that more students who report anxiety are females, foreshadowing a gender imbalance with respect to anxiety prevalence.
+- __Gender Distribution:__ The data obtained indicates that out of the total number of students who are anxious, 24, which is 70.59%, are females, while the rest, 10, are males. These findings suggest that more students who report anxiety are females.
 - __Gender Inequality in Anxiety Disorder Statistics:__ The more significant percentage of females with anxiety is commensurate with prior research touting that females are generally more prone to anxiety disorders as compared to their male counterparts. This may be a function of differences in societal expectations, hormonal influences, and coping strategies.
 - __Implications for Mental Health Support:__ The findings also dictate that there is a pressing need for putting in place gender-sensitive mental health support services within the educational setting, with a special focus on anxiety among female students. 
 <br />
@@ -180,7 +180,7 @@ From the analysis, i made the following Key findings below:
 
 - **Depression, Anxiety and Panic Attack Trend By Students Age:**
 - This is an analysis on prevalence of mental health conditions (anxiety, depression, panic attacks) among students, categorized by age. Below is an analysis of the findings along with key insights derived from the data:
-- __Anxiety:__ The picture of anxiety rate varies in students grouped according to age: it is the highest in students of 18 years (14 students), and then it gradually declines among the older students. This peak probably occurs at the end of eighth grade or the start of high school, college, or other transitions that increase the amount of school-related stress. 
+- __Anxiety:__ The picture of anxiety rate varies in students grouped according to age. it is the highest in students of 18 years (14 students), and then it gradually declines among the older students. This peak probably occurs at the end of eighth grade or the start of high school, college, or other transitions that increase the amount of school-related stress. 
 - __Depression:__ More specifically, it is highest within the age range of the students that were 18 years; 11 students fall under this age bracket and 6 were 24 years. The one at 18 could have been caused by the transition from childhood to adulthood/adolescence the one at 24 could be brought about by early adulthood which is accompanied by issues like career and finance. 
 - __Panic Attacks:__ Again, panic attacks also occur most frequently at 18 (9 students) and then randomly in other groupings of students. Stress and uncertainties that are 18 possibly explain the high rate at a time that is considered to be a transition period. The decrease in older groups can be also attributed to the fact that aged students manage stress better than young ones. 
 <br />
@@ -189,7 +189,7 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Deppression_Anxiety_Panic_Attack_Trend_By_Students_Year_of_Study.jpg" width="500">
 
 - **Depression, Anxiety and Panic Attack Trend By Students Year of Study:**
-- Based on the data presented in this work, this cross-sectional study investigates how many students of different years have certain mental health disorders (anxiety, depression, and panic attacks).
+- Based on the data presented in this project, this cross-sectional study investigates how many students of different years have certain mental health disorders (anxiety, depression, and panic attacks).
 - __Anxiety:__ The overall anxiety level is highest in Year 1 specifically 14 students have been found to be anxiously attached while the rest of the students had less anxiety levels in later years. This maintains that first-year students receive high anxiety due to the change of setting, academic stress, and accommodating pressures. They therefore come up with ways of dealing with things hence they are less anxious.
 - __Depression:__ Depression is also most prevalent in Year 1 with 14 students while it is cyclic in other years. The first one may be explained by the psychosocial stress caused by the first days of an academic term, separation from the home environment, and academic workload.
 - __Panic Attacks:__ Clearly, the most number of students experiencing panic attacks is in Year 1 (14) while those in Year two (2), Year three (2), and Year four (1) experience very few. This may be associated with the social pressure that students and particularly women, face as they try to balance between school, social life, work and other financial demands as they adapt to university life.
@@ -200,12 +200,10 @@ From the analysis, i made the following Key findings below:
 
 - **Depression, Anxiety and Panic Attack Trend By Students Course of Study:**
 - This analysis seeks to establish how often students develop these mental state disorders (anxiety, depression, panic attacks) depending on their course of study.
-- __Anxiety:__ Out of all the groups Engineering (7 students) has the most anxiety followed by BCS (5 students) and BIT (5 students). These rigorous classes probably raise stress because of academically challenging requirements and course content. Schools should provide stress management classes and counselors for students in this category.
-- __Depression:__ Depression: BIT students are the most affected by depression by responding 8 numbers of students BCS students are 6 numbers and engineering students are only 4 numbers. Pressure, high academic standards, and competitiveness as well as a heavy workload may lead to depression. Support services are crucial.
-- __Panic Attacks:__ From among the engineering and BCS students, a total of 5 students said that they have had panic attack at least once. Such rigorous programs could bring on panic attacks. Employment education in stress control and stress reduction can be beneficial.
-- __Implications for Mental Health Support:__ There is thus a clear need to avail specific mental health services for the learners taking arduous classes. These should be course-specific activities such as stress busting, help in course work and buddy system. Preventable academic stress consequences can be solved through mental health promotion and proper resource availability.
-
-
+- __Anxiety:__ Out of all the groups Engineering (7 students) has the most anxiety followed by BCS (5 students) and BIT (5 students). These rigorous classes probably raise stress because of academically challenging requirements and course content.
+- __Depression:__ Depression: BIT students are the most affected by depression by responding 8 numbers of students BCS students are 6 numbers and engineering students are only 4 numbers. Pressure, high academic standards, and competitiveness as well as a heavy workload may lead to depression. 
+- __Panic Attacks:__ From among the engineering and BCS students, a total of 5 students said that they have had panic attack at least once. Such rigorous programs could bring on panic attacks. 
+- __Implications for Mental Health Support:__ There is thus a clear need to avail specific mental health services for the learners taking arduous classes. These should be course-specific activities such as stress busting, help in course work and buddy system. 
 <br />
 <br />
 
