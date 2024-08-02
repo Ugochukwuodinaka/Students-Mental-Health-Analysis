@@ -130,10 +130,10 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Students_With%20_Depression.jpg" width="250">
 
 - **Number of Students With Depression By Gender:**
-- This aspect of the analysis considers the number of school students with depression by their given gender.
-- __Gender Distribution:__ Out of students with depression, 29 are female that is 82. 86% and only 6 are males that is 17. 14%. This depicts a clear cut scenario of how the male gender is more prone to depression as compared to the female gender.
-- __Gender Differences in Depression:__ From the collected data, it is found that three percent of the participants have plan to leave their job in the next 6 months. Female students rate their depression level 42% higher than male students in support of other literature indicating that females are more prone to depression than males. This may be attributed to hormone issues, cultural and social influence, as well as masculinity or femininity ways of handling stress.
-- __Implications for Mental Health Support:__ Again, the fact that the experiences of depression were slightly higher among female students confirms the need for schools to enhance gender-sensitive provisions for learners’ mental health. There is a need for institutions to provide special studies for female students and conduct sensitization on mental health.
+ In this analysis, our first insight shall be on the number of students with depression by gender; below are insights I derived from the data: 
+- __Gender Distribution:__ From here, one can see that among all students with depression, 29 of them are females (82.86%), and 6 of them are males, accounting for 17.14%. There is quite a disparity between the number of female students reporting depression and that of male students. 
+- __Gender Differences in Depression:__ In this research, the percentage of female students with a greater rate of depression was 73.42%, hence indicating that when considering mental health outcomes, there may be some bias based on gender. The finding, therefore, supports other studies in which the likelihood of depression was reportedly greater among females compared to their male counterparts. Such a disparity could be attributed to hormonal factors, societal expectations, and coping styles. 
+- __Implications for Mental Health Support:__ The findings of the present study, with a greater prevalence of depression noted in the female student population, call for gender-sensitive mental health support services within educational institutions. Educational institutions need to constitute interventions or targeted support programs ideally suited to deal with the individual challenges faced by female students. Awareness campaigns and outreach efforts aimed at reducing stigma concerning mental health issues, especially in the case of female students, may prove useful.
 <br />
 <br />
 
@@ -143,7 +143,7 @@ From the analysis, i made the following Key findings below:
 - The data contains information about the trend of anxiety prevalence among students by gender. Here is an overview and main conclusions of the data:
 - __Gender Distribution:__ The data obtained indicates that out of the total number of students who are anxious, 24, which is 70.59%, are females, while the rest, 10, are males. These findings suggest that more students who report anxiety are females, foreshadowing a gender imbalance with respect to anxiety prevalence.
 - __Gender Inequality in Anxiety Disorder Statistics:__ The more significant percentage of females with anxiety is commensurate with prior research touting that females are generally more prone to anxiety disorders as compared to their male counterparts. This may be a function of differences in societal expectations, hormonal influences, and coping strategies.
-- __Implications for Mental Health Support:__ The findings also dictate that there is a pressing need for putting in place gender-sensitive mental health support services within the educational setting, with a special focus on anxiety among female students. Targeted interventions, counselling services, and awareness campaigns play a very critical role in the mitigation of challenges linked to anxiety, by being more responsive to the specific needs of female students.
+- __Implications for Mental Health Support:__ The findings also dictate that there is a pressing need for putting in place gender-sensitive mental health support services within the educational setting, with a special focus on anxiety among female students. 
 <br />
 <br />
 
@@ -160,19 +160,19 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Students_Visited_A_Specialist.jpg" width="250">
 
 - **Number of Students That Visited A Specialist:**
-- This information details how many students visited a specialist to seek help for mental health treatment, categorized by gender. Following is the analysis of the observation and some important takeaways that can be drawn from this data:
+- This part of the analaysis, i looked into how many students visited a specialist to seek help for mental health treatment, categorized by gender. Following below is my analysis of the observation and some important takeaways that can be drawn from this data:
 - __Gender Distribution:__ The information shows that, out of the total students who went to see a specialist for treatment of their mental health, 5 are female, whereas only 1 is male. Female students, therefore, has the largest number of patients who seek specialist treatment, hence indicating a gender disparity in help-seeking over concerns on mental health.
 - __Gender Differences in Help-Seeking Behavior:__ Considering extant research that has shown females to be more likely to seek help for mental health problems than males, it is not surprising that more females visited a specialist for mental health treatment. These norms set by society, the stigma associated with mental health, and conventional gender roles could be influential in help-seeking and create differences in specialist treatment access.
-- __Implications for Mental Health Support:__ These data clearly convey the need to work on deterrents to help-seeking behavior, particularly by outreach to male students who may be least likely to seek out professional treatment for mental health concerns. Reduction of stigma, raising awareness about the availability of mental health services, and creation of a supportive environment where it is easy for students to come out for help must be emphasized by educational institutions.
+- __Implications for Mental Health Support:__ These data clearly convey the need to work on deterrents to help-seeking behavior, particularly by outreach to male students who may be least likely to seek out professional treatment for mental health concerns. 
 <br />
 <br />
 
 - <img src="images/Mental_Health_By_Marital_Status.jpg" width="300">
 
 - **Students With Mental Health Condition By Students Marital Status:**
-- This analysis is focused on the statistics of certain mental health disorders (anxiety, depression, panic attacks) among students, divided by the marriage status. Below is an analysis of the findings along with key insights derived from the data:Below is an analysis of the findings along with key insights derived from the data:
+- This analysis is focused on the statistics of certain mental health disorders (anxiety, depression, panic attacks) among students, divided by the marriage status. Below is an analysis of the findings along with key insights derived from the data: Below is an analysis of the findings along with key insights derived from the data:
 - __Anxiety:__ Among non-married students, 27 students who responded said they sometimes had anxiety while only 7 married students said the same. This points to the fact that marital status could be a determinant of anxiety, probably as a result of relationship status, support, and relationship stress.
-- __Depression:__ Single students revealed more depression than married students- 19 out of the students were depressed while 16 students were married. It is proved that marital status affects the probability of depression because of differences in life conditions, social support, and coping strategies. Thus, single students experience academic pressures, employment issues, and relational conflicts.
+- __Depression:__ More single students where found to be depressed compared to their fellow married students. It is proved that marital status affects the probability of depression because of differences in life conditions, social support, and coping strategies. Thus, single students experience academic pressures, employment issues, and relational conflicts.
 - __Panic Attacks:__ Of the students who are non-married, 23 of them reported having panic attacks while there were only 10 married students who reported the same. Gender, age, and marital state might also be a factor since unmarried students are more likely to be stressed out, economically troubled, lonely, and in conflict, all of which increase the likelihood of the occurrence of panic attacks.
 <br />
 
