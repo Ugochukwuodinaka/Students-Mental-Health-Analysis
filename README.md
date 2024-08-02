@@ -227,3 +227,4 @@ You can view and interact with this dashboard report [here](https://app.powerbi.
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_you.jpg)
