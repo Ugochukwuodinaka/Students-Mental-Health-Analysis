@@ -78,9 +78,8 @@ Detailed information about the fields in this dataset is provided below for a be
 ### Tools Used
 1. Power Query Editor
     - Was used to:
-        1. Extract,
-        2. Transform,
-        4. Load all the datasets for this analysis.
+        1. Clean
+        2. Transform the dataset for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
