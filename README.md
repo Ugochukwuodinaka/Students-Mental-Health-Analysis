@@ -110,7 +110,7 @@ No data modelling was required as we had just one table for the analysis.
 <br />
 
 ## Visualization in Power BI:
-#### Report View
+#### Dashboard View
 ![](images/Students_Mental_Hhealth_Analysis_Dashboard.jpg)
 <br />
 <br />
@@ -206,8 +206,8 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYTczYzBhNTktNGVlZi00ODk3LTllMmEtODk1YzAzNzMzYTdmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI:
+You can view and interact with this dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTczYzBhNTktNGVlZi00ODk3LTllMmEtODk1YzAzNzMzYTdmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
