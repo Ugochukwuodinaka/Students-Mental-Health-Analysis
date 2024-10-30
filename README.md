@@ -90,7 +90,7 @@ Detailed information about the fields in this dataset is provided below for a be
         5. Tooltips
 <br />
 
-### Data Cleaning, Transformation and Loading using MS Sql Server:
+### Data Cleaning and Transformation was done using Power Query Editor:
 - The dataset was sourced clean, though a little transformation was done, i also made sure that the data types of the fields were of the right types and that the fields all reported 100% valid for column quality in Power Query Editor.
 
 
